@@ -1,0 +1,405 @@
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/SferumBot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at /home/zerg/sferum_bot/main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:17> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:10> exception=TypeError("'module' object is not callable. Did you mean: 'random.random(...)'?")>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\main.py", line 15, in main
+    "wait": random(100,200)
+            ^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable. Did you mean: 'random.random(...)'?
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:10> exception=TypeError("'module' object is not callable. Did you mean: 'random.random(...)'?")>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\main.py", line 15, in main
+    "wait": random(10,20)
+            ^^^^^^^^^^^^^
+TypeError: 'module' object is not callable. Did you mean: 'random.random(...)'?
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:18> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:18> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:18> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:10> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\startup.py", line 46, in <module>
+    loop.run_forever()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 639, in run_forever
+    self._run_once()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 1985, in _run_once
+    handle._run()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\sferum_bot-main\main.py", line 21, in main
+    send_message(access_token , vk_chat_ids , str(random.randint(1, 100000000)));
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\vk\methods\send_message.py", line 20, in send_message
+    req = requests.post("https://api.vk.me/method/messages.send",
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1099, in _validate_conn
+    conn.connect()
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connection.py", line 616, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:20> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:20> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:10> exception=UnboundLocalError("cannot access local variable 'a' where it is not associated with a value")>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\main.py", line 17, in main
+    "wait": a
+            ^
+UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:10> exception=UnboundLocalError("cannot access local variable 'a' where it is not associated with a value")>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\main.py", line 20, in main
+    await sleep(a)
+                ^
+UnboundLocalError: cannot access local variable 'a' where it is not associated with a value
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:19> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at C:\sferum_bot-main\main.py:11> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\sferum_bot-main\startup.py", line 46, in <module>
+    loop.run_forever()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 639, in run_forever
+    self._run_once()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 1985, in _run_once
+    handle._run()
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\sferum_bot-main\main.py", line 30, in main
+    send_message(access_token , vk_chat_ids , res);
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\vk\methods\send_message.py", line 20, in send_message
+    req = requests.post("https://api.vk.me/method/messages.send",
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connectionpool.py", line 1099, in _validate_conn
+    conn.connect()
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connection.py", line 653, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\connection.py", line 806, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\sferum_bot-main\.venv\Lib\site-packages\urllib3\util\ssl_.py", line 440, in ssl_wrap_socket
+    context.load_verify_locations(ca_certs, ca_cert_dir, ca_cert_data)
+KeyboardInterrupt
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:24> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+INFO:root:Loop starting
+INFO:root:Closing loop...
+INFO:root:Loop closed
+ERROR:asyncio:Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<main() running at C:\sferum_bot-main\main.py:23> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+INFO:root:Loop starting
+INFO:root:Loop starting
+INFO:root:Loop starting
+INFO:root:Loop starting
+INFO:root:Loop starting
+INFO:root:Loop starting
