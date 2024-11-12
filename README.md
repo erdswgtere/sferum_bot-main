@@ -50,7 +50,9 @@ https://pyinstaller.org/en/stable/
 
 Бот сделан на основе исходных кодов проекта https://github.com/xKARASb/SferumBot?tab=readme-ov-file
 Огромное спасибо автору @xKARASb
+
 ########
+
 Исходная версия данного бота лежит в репе на гитлабе https://gitlab.com/zergvip/sferum_bot
 Спасибо большое автору @zergvip
 
